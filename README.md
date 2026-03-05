@@ -42,6 +42,8 @@ I'm currently building a portfolio of data science projects that demonstrate my 
 
 ## 🚀 Projects
 
+### [SQL Case Studies](https://github.com/FarhanZafar10/SQL-Case-Study)
+Solutions to Danny Ma's 8 Week SQL Challenge - demonstrating advanced SQL skills including CTEs, window functions, data cleaning, and complex joins. **Completed 2 of 8 case studies.**
 _Projects coming soon! Currently working on sports analytics and machine learning applications._
 
 <!-- This section will be updated as projects are added -->
